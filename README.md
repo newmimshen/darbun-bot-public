@@ -7,8 +7,9 @@
 
  پروژه رو کنار میزارم به دلیل اینکه نه v2ray کار میکنه(رایگان) نه فیلتر از داخل اجازه میده از ابزاری مثل شکن استفاده کنم و تحریم احتمالی رو دور بزنم  
  آخرین خطایی که منصرفم کرد:  
-![last error](https://github.com/newmimshen/darbun-bot-public/blob/0965b930158bdf6641ab3ed56a0a36caaca610b8/Capture.PNG)
-
+![last error](https://github.com/newmimshen/darbun-bot-public/blob/0965b930158bdf6641ab3ed56a0a36caaca610b8/Capture.PNG)  
+برای رزومه قدیمی: پروژه جدید:  
+https://github.com/newmimshen/aviny
       
  ❌ تست دستورات اولیه/بازی و یادگیری  
  ❌ قرار دادن دستورات   
