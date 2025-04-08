@@ -7,7 +7,7 @@
 
  پروژه رو کنار میزارم به دلیل اینکه نه v2ray کار میکنه(رایگان) نه فیلتر از داخل اجازه میده از ابزاری مثل شکن استفاده کنم و تحریم احتمالی رو دور بزنم  
  آخرین خطایی که منصرفم کرد:  
-![last error](https://github.com/newmimshen/darbun-bot-public/blob/0965b930158bdf6641ab3ed56a0a36caaca610b8/Capture.PNG)  
+![last error](https://github.com/newmimshen/darbun-bot-public/blob/72cc41f11ee494872c86da4d879747e1bfe3165f/1.PNG)  
 برای رزومه قدیمی: پروژه جدید:  
 https://github.com/newmimshen/aviny
       
@@ -24,3 +24,9 @@ https://github.com/newmimshen/aviny
 13 فروردین 1404  
 تکنولوژی های استفاده شده تاکنون:  
 Ngrok - webhooks - pinggy - cUrl 
+
+
+## آپدیت جدید
+چون پروکسیم بگیر نگیر داره این پروژه رو موکول می کنم به بعد از پروژه شهید آوینی  
+  
+![update!](https://github.com/newmimshen/darbun-bot-public/blob/72cc41f11ee494872c86da4d879747e1bfe3165f/2.PNG)
